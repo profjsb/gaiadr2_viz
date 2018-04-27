@@ -1,6 +1,6 @@
 # gaiadr2_viz
 
-<img width="50%" src="https://public.boxcloud.com/api/2.0/files/290103911208/content?preview=true&version=305326443816&access_token=1!ofQcM9U_Vl8YNhOxHzWZK7SAFPmsbG9CBMSiikec0T7soIfKLtyJJ9dTf7S0YiUoI_l-y4nfttbqvMLEZoFFBjR5KZg73_EXwi0x8e0MzFW1O99rj6c__Q7f0IFg-kZ9aBwxZ33BvIaEaESMCOkIfW0LiZYVCkIAW_Vhu8eTV5QCXZ7KdMdo5jdoqozpO_GC9inkL99N8pHB4_-gPsNY5jaE0hetEtPSYe1SgpXY5mNe0XcAlztaw5F-YjADaPDXC_dNdy2rVlLm0S_R2ZxYpsDPFzEF6UUv2LjPsr38R68VbKWcUnYyqheX-uaf7omGsva1_mTp_Ial6Ni32sJCgDbXOImn3CK3ifc3J_vf2wgv1XDjOL8v3-GPX-MykUupuMWWtjwFkI3_lCYU&shared_link=https%3A%2F%2Fberkeley.app.box.com%2Fs%2Fp0s2x963lbvtnrxnrluiu4n62l1c34vv&box_client_name=box-content-preview&box_client_version=1.40.0">
+<img width="160" src="imgs/gaia_dr2_anim.gif">
 
 See the [notebook](https://github.com/profjsb/gaiadr2_viz/blob/master/gaia_viz.ipynb).
 
